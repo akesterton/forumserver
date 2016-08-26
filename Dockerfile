@@ -1,5 +1,9 @@
 FROM java:8u92-jre-alpine
 
+RUN useradd -ms /bin/bash forumuser
+USER forumuser
+WORKDIR /home/forumuser
+
 SERVER_BIN_DIR=https://github.com/akesterton/forumserver/target
 
 ENV VERTICLE_FILE game-service-1.0.0-SNAPSHOT-fat.jar
