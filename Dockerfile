@@ -1,11 +1,13 @@
 FROM java:8u92-jre-alpine
 
+SERVER_BIN_DIR=https://github.com/akesterton/forumserver/target
+
 ENV VERTICLE_FILE game-service-1.0.0-SNAPSHOT-fat.jar
 ENV VERTICLE_HOME /usr/verticles
 
 EXPOSE 8080 9001 9002
 
-RUN curl -L https://github.com/utherp0/oseTestWARs/$VERTICLE_FILE -o $VERTICLE_HOME/$VERTICLE_FILE
+RUN curl -L $SERVER_BIN_DIR/$VERTICLE_FILE -o $VERTICLE_HOME/$VERTICLE_FILE
 
 # COPY src/main/resources/ $VERTICLE_HOME/
 
