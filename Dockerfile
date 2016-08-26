@@ -1,5 +1,7 @@
 FROM java:8u92-jre-alpine
 
+RUN echo '[AJK] Started'
+
 RUN useradd -ms /bin/bash forumuser
 USER forumuser
 WORKDIR /home/forumuser
