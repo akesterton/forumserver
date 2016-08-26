@@ -1,0 +1,4 @@
+com/redhat/middleware/keynote/UserNameGeneratorTest.class
+com/redhat/middleware/keynote/TrafficServerVerticleTest.class
+com/redhat/middleware/keynote/MainVerticleTest.class
+com/redhat/middleware/keynote/ClusteredTest.class

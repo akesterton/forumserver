@@ -1,0 +1,12 @@
+com/redhat/middleware/keynote/ScoreTimerVerticle.class
+com/redhat/middleware/keynote/discovery/HazelcastKubernetesDiscoveryStrategy.class
+com/redhat/middleware/keynote/MainVerticle.class
+com/redhat/middleware/keynote/GameUtils$Endpoint.class
+com/redhat/middleware/keynote/GameUtils.class
+com/redhat/middleware/keynote/UserNameGenerator.class
+com/redhat/middleware/keynote/ServerVerticle.class
+com/redhat/middleware/keynote/TrafficServerVerticle.class
+com/redhat/middleware/keynote/discovery/HazelcastKubernetesDiscoveryStrategyFactory.class
+com/redhat/middleware/keynote/BoardVerticle.class
+com/redhat/middleware/keynote/InternalServiceVerticle.class
+com/redhat/middleware/keynote/LogUtils.class

@@ -1,0 +1,11 @@
+/home/akesterton/forumtest/src/main/java/com/redhat/middleware/keynote/discovery/HazelcastKubernetesDiscoveryStrategy.java
+/home/akesterton/forumtest/src/main/java/com/redhat/middleware/keynote/discovery/HazelcastKubernetesDiscoveryStrategyFactory.java
+/home/akesterton/forumtest/src/main/java/com/redhat/middleware/keynote/BoardVerticle.java
+/home/akesterton/forumtest/src/main/java/com/redhat/middleware/keynote/UserNameGenerator.java
+/home/akesterton/forumtest/src/main/java/com/redhat/middleware/keynote/MainVerticle.java
+/home/akesterton/forumtest/src/main/java/com/redhat/middleware/keynote/ServerVerticle.java
+/home/akesterton/forumtest/src/main/java/com/redhat/middleware/keynote/LogUtils.java
+/home/akesterton/forumtest/src/main/java/com/redhat/middleware/keynote/GameUtils.java
+/home/akesterton/forumtest/src/main/java/com/redhat/middleware/keynote/InternalServiceVerticle.java
+/home/akesterton/forumtest/src/main/java/com/redhat/middleware/keynote/ScoreTimerVerticle.java
+/home/akesterton/forumtest/src/main/java/com/redhat/middleware/keynote/TrafficServerVerticle.java

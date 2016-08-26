@@ -1,0 +1,4 @@
+/home/akesterton/forumtest/src/test/java/com/redhat/middleware/keynote/MainVerticleTest.java
+/home/akesterton/forumtest/src/test/java/com/redhat/middleware/keynote/UserNameGeneratorTest.java
+/home/akesterton/forumtest/src/test/java/com/redhat/middleware/keynote/TrafficServerVerticleTest.java
+/home/akesterton/forumtest/src/test/java/com/redhat/middleware/keynote/ClusteredTest.java
